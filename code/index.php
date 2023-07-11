@@ -14,11 +14,11 @@
 -->
     <link rel="stylesheet" href="css/leaflet.css"/>
 	<link rel="stylesheet" href="css/app.css"/>
-	<link rel="stylesheet" href="Leaflet.markercluster-1.4.1/dist/MarkerCluster.css"/>
-	<link rel="stylesheet" href="Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css"/>
+	<link rel="stylesheet" href="css/MarkerCluster.css"/>
+	<link rel="stylesheet" href="css/MarkerCluster.Default.css"/>
 	
     <script src="js/leaflet.js" ></script>	
-	<script src="Leaflet.markercluster-1.4.1/dist/leaflet.markercluster.js" ></script>
+	<script src="js/leaflet.markercluster.js" ></script>
 </head>
 <body>
 <?php
