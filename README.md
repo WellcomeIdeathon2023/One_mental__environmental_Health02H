@@ -10,4 +10,16 @@ Feel free to create additional folders in this repository but please use the exi
 
 # LICENCE
 
-The code in this repository is licenced under a permissive [MIT licence](https://opensource.org/licenses/MIT). All other content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This means you may use any content in this repository as long as you credit the authors.
+The code in this repository is licenced under a permissive [MIT licence](https://opensource.org/licenses/MIT). All other content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This means you may use any content in this repository as long as you credit the authors. 
+
+Authors: 
+Dr Harriet Elizabeth Moore
+Dr John Atanbori
+Global Professor Mark Gussy
+Professor Aloysius Niro Siriwarden
+Professor Edward Hanna
+
+Institutions: 
+University of Lincoln
+Lincoln International Institute for Rural Health
+Community and Health Research Unit
